@@ -1,0 +1,6 @@
+{
+  "name": "MindScore",
+  "description": "Discover how you think. MindScore analyzes behaves in AI chats to map your cognitive signature and generate beautiful shareable certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
